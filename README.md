@@ -1,7 +1,7 @@
 # CrenShaws Sneakers — Website Project
 
 ## Project Title
-CrenShaws Sneakers Website (WEDE5020 POE — Part 2)
+CrenShaws Sneakers Website (WEDE5020 POE — Part 123)
 
 ## Student Information
 - Name: [Your Full Name]
