@@ -160,6 +160,33 @@ navigation menu on every page.
   the README.
 - 18 September 2026 — Removed macOS system files (`__MACOSX/`, `._*`) from the
   project folder before packaging for submission.
+You can add the following section to your README under Part 3 Details. It explains the planned JavaScript functionality and SEO improvements.
+
+## Part 3 Details — JavaScript Functionality and SEO
+
+Part 3 will focus on improving the website by adding JavaScript functionality and Search Engine Optimisation (SEO). The aim is to make the website more interactive, user-friendly and easier to find through search engines.
+
+The planned improvements include:
+
+- JavaScript navigation: Improve navigation functionality and make the website easier to use.
+- Form validation: Add JavaScript validation to the enquiry form to ensure visitors enter the required information correctly.
+- Interactive features: Add interactive buttons and other features to improve the user experience.
+- Image interaction: Improve how visitors interact with product and promotional images.
+- SEO page titles: Add unique and descriptive page titles to all five pages.
+- Meta descriptions: Include relevant descriptions to help search engines understand each page.
+- Image alt text: Add descriptive alternative text to images for accessibility and SEO.
+- Semantic HTML: Ensure headings, sections, navigation and other HTML elements are properly structured.
+
+### Expected Outcome
+
+After completing Part 3, the CrenShaws Sneakers website should have improved functionality, better accessibility, stronger search engine visibility and a smoother browsing experience across desktop, tablet and mobile devices.
+
+### Part 3 Changelog
+
+- Planned JavaScript validation for the enquiry form.
+- Planned interactive website features.
+- Planned SEO improvements across all five pages.
+- Planned improvements to accessibility and user experience.
 
 ## Photo Credits
 - Hero/brand image and featured product photo: supplied by the student.
