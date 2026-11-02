@@ -4,9 +4,9 @@
 CrenShaws Sneakers Website (WEDE5020 POE — Part 123)
 
 ## Student Information
-- Name: [Your Full Name]
-- Student Number: [Your Student Number]
-- Group: [Your Group, if applicable]
+- Name: [MAKUNGU HLUNGWANI]
+- Student Number: [ST10517674]
+- Group: [2]
 
 ## Project Overview
 A five-page website for CrenShaws Sneakers, a sneaker studio offering new
